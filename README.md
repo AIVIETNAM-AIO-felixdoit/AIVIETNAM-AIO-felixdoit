@@ -2,8 +2,7 @@
 
 ### What's up guys, I'm [Tuan](https://about-meh.vercel.app/) and you can call me [Felix](https://about-meh.vercel.app/) 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="130" height="130" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Squinting%20Face.webp" alt="Grinning Squinting Face" width="130" height="130" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="130" height="130" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Squinting%20Face.webp" alt="Grinning Squinting Face" width="130" height="130" />
 
 - 👨‍💻 swe at aws
 - 📫 How to reach me: [@tuan](https://www.linkedin.com/in/tuaanng/)
