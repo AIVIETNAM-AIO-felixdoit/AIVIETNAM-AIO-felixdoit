@@ -30,7 +30,7 @@ I enjoy exploring large codebases and contributing to open-source projects.
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=Twitter&logoColor=white)](https://x.com/felixbuildstuff) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tunnvd.jsx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuaanng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nvdtuan205111@gmail.com) ![Visitor Count](https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-felixdoit&color=blue)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=Twitter&logoColor=white)](https://x.com/felixbuildstuff) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tunnvd.jsx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuaanng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nvdtuan205111@gmail.com) ![Visitor Count](https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-felixdoit&color=blue)
 
 
 # 💻 Tech Stack:
