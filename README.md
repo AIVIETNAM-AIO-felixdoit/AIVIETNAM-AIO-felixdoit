@@ -1,13 +1,13 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/binhlee)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tuaanng)
 
-### What's up, I'm [Binh](https://binhle.co/) 
+### What's up guys, I'm [Tuan](https://about-meh.vercel.app/) and you can call me [Felix](https://about-meh.vercel.app/) 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Squinting%20Face.webp" alt="Grinning Squinting Face" width="130" height="130" />
 
-- 👨‍💻 swe at uber
-- 📫 How to reach me: [@binh](https://www.linkedin.com/in/binhlee/)
+- 👨‍💻 swe at 
+- 📫 How to reach me: [@tuan](https://www.linkedin.com/in/tuaanng/)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I also make YouTube [videos](https://www.youtube.com/@binh) 🤫
+- ⚡ Fun fact: I like building cool stuff XD
 
 
 <h1 align="center">Animesh Chaudhri</h1>
