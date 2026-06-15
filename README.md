@@ -18,13 +18,10 @@ I enjoy exploring large codebases and contributing to open-source projects.
 </p>
 
 <br>
-
 <h3>Currently Listening</h3>
-
 <a href="https://open.spotify.com/user/315kkpbxzho7sdy7bfhmqitb52ry">
-<img src="https://open.spotify.com/user/315kkpbxzho7sdy7bfhmqitb52ry&count=1&width=1000"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315kkpbxzho7sdy7bfhmqitb52ry&count=1&width=1000" />
 </a>
-
 <br>
 
 
