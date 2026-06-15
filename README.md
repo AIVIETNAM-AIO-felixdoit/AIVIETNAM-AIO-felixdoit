@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tuaanng)
 
-### What's up guys, I'm [Tuan](https://about-meh.vercel.app/) or you can call me [Felix](https://about-meh.vercel.app/) 
+### What's up guys, I'm [Tuan](https://about-meh.vercel.app/) or you can call me [Felix](https://about-meh.vercel.app/) xD
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="100" height="100" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Squinting%20Face.webp" alt="Grinning Squinting Face" width="100" height="100" />
 
