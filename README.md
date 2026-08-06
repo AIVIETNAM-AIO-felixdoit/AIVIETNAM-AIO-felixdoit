@@ -36,8 +36,8 @@ I enjoy exploring large codebases and contributing to open-source projects.
 
 
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-felixdoit&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AIVIETNAM-AIO-felixdoit&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=AIVIETNAM-AIO-felixdoit&layout=compact&langs_count=4&theme=transparent)
 
 
 ### ✍️ Random Dev Quote
