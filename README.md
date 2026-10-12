@@ -143,8 +143,3 @@ I enjoy exploring large codebases and contributing to open-source projects.
 ## Visitor count
 ![Visitor Count](https://count.getloli.com/get/@AIVIETNAM-AIO-felixdoit?theme=booru-r6gdrawfriends)
 
-
-
-## OpenSource Stats:
-[![An image of @aivietnamaiofelixdoit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aivietnamaiofelixdoit)](https://www.holopin.io/@aivietnamaiofelixdoit)
-
