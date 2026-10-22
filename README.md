@@ -31,7 +31,7 @@ I enjoy exploring large codebases and contributing to open-source projects.
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/felixdoit/) [![X](https://img.shields.io/badge/Twitter-%23000000.svg?logo=x&logoColor=white)](https://x.com/felixbuildstuff) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tunnvd.jsx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuaanng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nvdtuan205111@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23grey.svg?logo=vercel&logoColor=white)](https://about-meh.vercel.app) 
 <!-- ![Visitor Count](https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-felixdoit&color=blue) -->
 
-
+<!--
 ## 💻 Tech Stack:
 ### 🧠 Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -127,7 +127,7 @@ I enjoy exploring large codebases and contributing to open-source projects.
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)
 
-  
+-->  
 ## 📊 GitHub Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AIVIETNAM-AIO-felixdoit&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=AIVIETNAM-AIO-felixdoit&layout=compact&langs_count=4&theme=transparent)
 
