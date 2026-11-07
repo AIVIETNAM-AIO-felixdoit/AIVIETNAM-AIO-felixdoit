@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="100" height="100" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Squinting%20Face.webp" alt="Grinning Squinting Face" width="100" height="100" />
 
-- 👨‍💻 swe at aws
+- 👨‍💻 swe at unknown
 - 📫 How to reach me: [@tuan](https://www.linkedin.com/in/tuaanng/)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like building cool stuff XD
