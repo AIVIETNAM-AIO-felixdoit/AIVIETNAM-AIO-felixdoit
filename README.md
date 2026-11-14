@@ -8,9 +8,8 @@
 
 - 👨‍💻 swe at unknown
 - 📫 How to reach me: [@tuan](https://www.linkedin.com/in/tuaanng/)
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I like building cool stuff XD
-
+<!-- - 😄 Pronouns: He/him --> 
 <h2>Open Source</h2>
 
 <p>
