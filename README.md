@@ -141,5 +141,15 @@ I enjoy exploring large codebases and contributing to open-source projects.
 
 
 ## Visitor count
+<!-- Military anime girls -->
 ![Visitor Count](https://count.getloli.com/get/@AIVIETNAM-AIO-felixdoit?theme=booru-r6gdrawfriends)
 
+
+<!-- Flat Theme (Default) -->
+<!-- ![Visitor Counter](https://anime-counter.lulushu.workers.dev/@AIVIETNAM-AIO-felixdoit) -->
+
+<!-- Death Note (L) Sprite Theme -->
+<!-- ![Visitor Counter](https://anime-counter.lulushu.workers.dev/@AIVIETNAM-AIO-felixdoit?theme=l) -->
+
+<!-- Naruto Sprite Theme -->
+<!-- ![Visitor Counter](https://anime-counter.lulushu.workers.dev/@AIVIETNAM-AIO-felixdoit?theme=naruto) -->
